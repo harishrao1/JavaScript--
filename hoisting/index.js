@@ -8,3 +8,7 @@ function doSomething() {
   var x = 1; // var code
   console.log(x);
 }
+
+
+
+
